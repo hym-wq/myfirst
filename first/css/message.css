@@ -1,0 +1,128 @@
+
+.main>div:nth-child(1){
+	width: 90%;
+	height: 160px;
+	margin: 0px auto;
+	padding-top: 60px;
+}
+.main>div:nth-child(1)>h3{
+	text-align: center;
+	font:26px 微软雅黑;
+	font-weight: 400;
+	color: #FFFFFF;
+	letter-spacing: 2px;
+	margin-bottom: 40px;
+}
+.main>div:nth-child(1)>p{
+	text-align: center;
+	font:13px 仿宋_gb2312;
+	color: #808080;
+	line-height: 30px;
+}
+.message{
+	width: 50%;
+	height: 450px;
+	margin: 0 auto;
+	
+}
+.message>p{
+	width: 50%;
+	color: #dedede;
+	font:20px 微软雅黑 ;
+	float: left;
+	margin-top: 20px;
+}
+.message>input{
+	width: 48%;
+	height:40px;
+	background-color: transparent;
+	outline: none;
+	border:1px solid rgba(230,230,230,.3);
+	text-indent: 5px;
+	color: #FFFFFF;
+}
+.message>select{
+	width:16%;
+	height:40px;
+	background-color: transparent;
+	outline: none;
+	border:1px solid rgba(230,230,230,.3);
+	color:rgba(230,230,230,.5);	
+	background-color: #212121;
+	overflow-y: scroll;
+}
+.message>textarea{
+	width: 98%;
+	height: 60px;
+	margin-top:2px;
+	background-color: transparent;
+	outline: none;
+	border:1px solid rgba(230,230,230,.3);
+	color:rgba(230,230,230,.5);	
+	text-indent: 5px;
+}
+.message>button{
+	display: block;
+	width: 264px;
+	height:48px;
+	margin:40px auto;
+	background-color: #cc0e17;
+	outline: none;
+	border: none;
+	color: #FFFFFF;
+	font: 18px 微软雅黑;
+	cursor: pointer;
+}
+.message>div{
+	width: 50%;
+	height:25px;
+	margin: 5px 0 0 0 ;
+	float: left;
+	display: none;
+}
+.message>div>span{
+	display: block;
+	width: 140px;
+	height:25px;
+	background-color: #d64a49;
+	color: white;
+	float: left;
+	font-size: 14px;
+	line-height: 25px;
+	overflow: hidden;
+}
+.message>div>span:nth-of-type(2){
+	margin-left:230px;
+}
+.message>div>span>img{
+	display: block;
+	width: 15px;
+	float: left;
+	margin-right:5px;
+	margin-top: 4px;
+}
+.tipBox{
+	width: 320px;
+	height: 280px;
+	background:rgba(15,15,15,.6);
+	border-radius:40px;
+	position: fixed;
+	bottom:30%;
+	right: 39%;
+	text-align: center;
+	display: none;
+}
+
+
+
+.tipBox>img{
+	width: 130px;
+	text-align: center;
+	margin-top: 20px;
+}
+.tipBox>p{
+	width: 310px;
+	margin: 40px auto;
+	font-size:20px;
+	color: #FFFFFF;
+}

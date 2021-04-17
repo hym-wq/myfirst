@@ -1,0 +1,41 @@
+.title{
+	width: 90%;
+	margin: 0 auto;
+	padding-top:90px ;
+}
+.store{
+	width: 90%;
+	height:600px;
+	margin: 0 auto;
+	
+}
+.store>li{
+	width: 240px;
+	height:280px;
+	
+	float: left;
+	margin: 10px 30px;
+}
+.store>li>img{
+	width: 240px;
+	margin-top: 25px;
+}
+.store>li>p{
+	width: 240px;
+	color: #EFEFEF;
+	font: 16px 微软雅黑;
+	padding: 10px 0;
+}
+.store>li>span{
+	color: #EFEFEF;
+	font: 14px 微软雅黑;
+	padding: 10px 0;
+}
+.store>li>div{
+	color: #EFEFEF;
+	font: 14px 微软雅黑;
+	padding: 10px 0;
+}
+.footer{
+	margin-top: 20px;
+}
