@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="31px" viewBox="0 0 34 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43 (38999) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="21" transform="translate(-458.000000, -284.000000)" fill="#5A4B41">
+            <g id="Profile" transform="translate(192.000000, 199.000000)">
+                <g id="Change-Photo" transform="translate(243.000000, 60.000000)">
+                    <path d="M34.9,25 L34.9,25 L45.1,25 L48.211,28.4 L53.6,28.4 C55.47,28.4 57,29.93 57,31.8 L57,52.2 C57,54.07 55.47,55.6 53.6,55.6 L26.4,55.6 C24.53,55.6 23,54.07 23,52.2 L23,31.8 C23,29.93 24.53,28.4 26.4,28.4 L31.789,28.4 L34.9,25 Z M40,50.5 C44.692,50.5 48.5,46.692 48.5,42 C48.5,37.308 44.692,33.5 40,33.5 C35.308,33.5 31.5,37.308 31.5,42 C31.5,46.692 35.308,50.5 40,50.5 Z M40,47.44 C36.995571,47.44 34.56,45.004429 34.56,42 C34.56,38.995571 36.995571,36.56 40,36.56 C43.004429,36.56 45.44,38.995571 45.44,42 C45.44,45.004429 43.004429,47.44 40,47.44 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

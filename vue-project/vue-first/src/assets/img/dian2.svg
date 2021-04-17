@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="9px" viewBox="0 0 34 9" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43 (38999) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="8" transform="translate(-686.000000, -86.000000)" fill="#FFFFFF">
+            <g id="Headline" transform="translate(0.000000, 40.000000)">
+                <path d="M690.25,46 C687.9125,46 686,47.9125 686,50.25 C686,52.5875 687.9125,54.5 690.25,54.5 C692.5875,54.5 694.5,52.5875 694.5,50.25 C694.5,47.9125 692.5875,46 690.25,46 L690.25,46 Z M715.75,46 C713.4125,46 711.5,47.9125 711.5,50.25 C711.5,52.5875 713.4125,54.5 715.75,54.5 C718.0875,54.5 720,52.5875 720,50.25 C720,47.9125 718.0875,46 715.75,46 L715.75,46 Z M703,46 C700.6625,46 698.75,47.9125 698.75,50.25 C698.75,52.5875 700.6625,54.5 703,54.5 C705.3375,54.5 707.25,52.5875 707.25,50.25 C707.25,47.9125 705.3375,46 703,46 L703,46 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

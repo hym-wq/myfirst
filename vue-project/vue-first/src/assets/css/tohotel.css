@@ -1,0 +1,8 @@
+.van-stepper--round .van-stepper__minus{
+	color: rgba(46, 184, 114, 1);
+	background-color: #fff;
+	border: 1px solid rgba(46, 184, 114, 1);
+}
+.van-stepper--round .van-stepper__plus{
+	background-color:rgba(46, 184, 114, 1);
+}

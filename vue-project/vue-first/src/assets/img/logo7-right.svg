@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="76px" height="77px" viewBox="0 0 76 77" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43 (38999) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1" transform="translate(-489.000000, -603.000000)" fill="#5A4B41">
+            <g id="Icon" transform="translate(185.000000, 299.000000)">
+                <g id="Group">
+                    <path d="M370.5,380.801688 L313.5,380.801688 C308.2465,380.801688 304,376.546229 304,371.281646 L304,314.161392 C304,308.896809 308.2465,304.64135 313.5,304.64135 L342,304.64135 C362.957,304.64135 380,321.720306 380,342.721519 L380,371.281646 C380,376.546229 375.7535,380.801688 370.5,380.801688 L370.5,380.801688 Z M323,361.761603 L361,361.761603 L361,342.721519 C361,332.220912 352.4785,323.681435 342,323.681435 L323,323.681435 L323,361.761603 L323,361.761603 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

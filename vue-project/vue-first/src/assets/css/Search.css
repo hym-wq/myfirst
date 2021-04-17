@@ -1,0 +1,7 @@
+.van-field__label,span.van-radio__label{
+	color:rgba(170, 166, 162, 1);
+}
+span.van-radio__label{
+	font-size: 12px;
+}
+.van-icon-search{left:110px;}
